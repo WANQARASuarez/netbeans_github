@@ -5,6 +5,8 @@
  */
 package net_gib;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author ALEJANDRO
@@ -16,6 +18,7 @@ public class Net_gib {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "HOLA");
     }
     
 }
