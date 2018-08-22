@@ -19,6 +19,7 @@ public class Net_gib {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "HOLA");
+        JOptionPane.showMessageDialog(null, "MUNDO");
     }
     
 }
